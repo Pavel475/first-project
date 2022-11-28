@@ -1,3 +1,7 @@
-h2 {
+.header-link {
     color: red;    
 }
+
+.header-link:hover {
+    color: lightgreen;
+} 
